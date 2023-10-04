@@ -63,6 +63,7 @@ resource "aws_elasticache_replication_group" "main" {
   #transit_encryption_enabled = true
   at_rest_encryption_enabled = true
 
+
 }
 
 
